@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Julius Cruz juliuszurc@gmail.com noTwitter
 
 # THANKS
 
