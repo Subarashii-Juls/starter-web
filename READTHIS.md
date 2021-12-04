@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple web project for practice on using git and github
+This is a simple web project for practice on using git and github. 
+Adding a line for rebasing.
 
 ## Introduction
 
