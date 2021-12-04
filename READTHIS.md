@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple web project for practice on using git and github. 
-Adding a line for rebasing.
+Adding a line for rebasing, then more changes for my feature branch.
 
 ## Introduction
 
